@@ -2,12 +2,12 @@
 	"sn": "facebook",
 	"login": "alisamanul8@gmail.com",
 	"password": "alisa2708",
-	"lastEventDate": "01.02.2024 15:10 POland TEST",
+	"lastEventDate": "01.02.2024 23:44 POland TEST",
 	"status": 2,
 	"id": "100095120764605",
 	"name": "",
 	"profileName": "Аліса Манул",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Аліса Манул",
 	"birthdate": "1983 August 27",
 	"country": "",
@@ -41,7 +41,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1738328705.053843,
+			"expirationDate": 1738366851.386097,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -54,7 +54,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1738328705.053981,
+			"expirationDate": 1738366851.386275,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -63,11 +63,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "8%3A-1M27v8lIpE8zw%3A2%3A1705944457%3A-1%3A-1%3A%3AAcWnAluVz2WFhzUTIeRKHFZvslkyUFwPuM7WRZVqwg"
+			"value": "8%3A-1M27v8lIpE8zw%3A2%3A1705944457%3A-1%3A16014%3A%3AAcUZVzk-z9IGiKl-hBq8w_-TCxQWYQj9alI_WyMm-w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707404472,
+			"expirationDate": 1714606881.60277,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0I0EIO7TN3IRGSPb7.AWUmXxFNOFlevy-sPOpD5IzEKt8.BlrqWI.0H.AAA.0.0.BlvCwg.AWXy9SCl2Xc"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1707435741,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -80,19 +93,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714575612.054055,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0I0EIO7TN3IRGSPb7.AWU3WirIS_AJveC--lS_AuCFqXc.BlrqWI.0H.AAA.0.0.Blu7H7.AWUxUsWzkog"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -101,7 +101,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1706799674396%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1706830944037%2C%22v%22%3A1%7D"
 		}
 	]
 }
