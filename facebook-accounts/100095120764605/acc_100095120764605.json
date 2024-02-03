@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "alisamanul8@gmail.com",
 	"password": "alisa2708",
-	"lastEventDate": "02.02.2024 12:02 POland TEST",
+	"lastEventDate": "03.02.2024 09:29 POland TEST",
 	"status": 2,
 	"id": "100095120764605",
 	"name": "",
@@ -41,7 +41,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1738409365.790241,
+			"expirationDate": 1738488359.644214,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -54,7 +54,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1738409365.790568,
+			"expirationDate": 1738488359.644487,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -63,11 +63,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "8%3A-1M27v8lIpE8zw%3A2%3A1705944457%3A-1%3A16014%3A%3AAcVwI1SwVwd8oQm2vtSYTEIOS5PnjHjenYuumTj1wsc"
+			"value": "8%3A-1M27v8lIpE8zw%3A2%3A1705944457%3A-1%3A16014%3A%3AAcUZjTPEsyPMNIgFtyy6oLqUq1nguHQjycp-hChT0zg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707478828,
+			"expirationDate": 1707557253,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -80,7 +80,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714649965.482286,
+			"expirationDate": 1714728391.810001,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -89,7 +89,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0I0EIO7TN3IRGSPb7.AWX4vb48fXGgne5u5U0af9Dc02g.BlrqWI.0H.AAA.0.0.BlvNRt.AWUO6k5a7so"
+			"value": "0I0EIO7TN3IRGSPb7.AWWtxQwPsOpAoOm8Vd5AFPze7s4.BlrqWI.0H.AAA.0.0.BlvgbH.AWXQS5Y4xKQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -101,7 +101,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1706874022935%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1706952456466%2C%22v%22%3A1%7D"
 		}
 	]
 }
