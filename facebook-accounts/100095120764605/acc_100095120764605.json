@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "alisamanul8@gmail.com",
 	"password": "alisa2708",
-	"lastEventDate": "03.02.2024 10:24 POland TEST",
+	"lastEventDate": "03.02.2024 13:19 POland TEST",
 	"status": 2,
 	"id": "100095120764605",
 	"name": "",
@@ -41,7 +41,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1738488359.644214,
+			"expirationDate": 1738502160.967691,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -54,20 +54,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1738488359.644487,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "8%3A-1M27v8lIpE8zw%3A2%3A1705944457%3A-1%3A16014%3A%3AAcUZjTPEsyPMNIgFtyy6oLqUq1nguHQjycp-hChT0zg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1707557253,
+			"expirationDate": 1707571053,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -80,7 +67,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714728391.810001,
+			"expirationDate": 1738502160.96801,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "8%3A-1M27v8lIpE8zw%3A2%3A1705944457%3A-1%3A16014%3A%3AAcWyAqTg20q8crjRd-loEQV9gcbUhURnvUHpQ-eJKlU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714742190.846493,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -89,7 +89,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0I0EIO7TN3IRGSPb7.AWWtxQwPsOpAoOm8Vd5AFPze7s4.BlrqWI.0H.AAA.0.0.BlvgbH.AWXQS5Y4xKQ"
+			"value": "0I0EIO7TN3IRGSPb7.AWWInTi5hck90ZgguuPJYsQHD7w.BlrqWI.0H.AAA.0.0.Blvjyu.AWV1XVS7Ids"
 		},
 		{
 			"domain": ".facebook.com",
@@ -101,7 +101,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1706952456466%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1706966257664%2C%22v%22%3A1%7D"
 		}
 	]
 }
