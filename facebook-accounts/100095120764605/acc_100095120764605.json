@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "alisamanul8@gmail.com",
 	"password": "alisa2708",
-	"lastEventDate": "08.02.2024 02:13 TEST",
+	"lastEventDate": "08.02.2024 02:24 TEST",
 	"status": 2,
 	"id": "100095120764605",
 	"name": "",
@@ -67,7 +67,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715134110.080585,
+			"expirationDate": 1715134922.095158,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -76,11 +76,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0I0EIO7TN3IRGSPb7.AWWAvOLNdWhQwiWXH7np6Lg1Hzo.BlrqWI..AAA.0.0.BlxDee.AWUF8H3bin8"
+			"value": "0I0EIO7TN3IRGSPb7.AWWuLdFhft8nuzJOpkJ2mqEQocY.BlrqWI..AAA.0.0.BlxDrK.AWWHe-pkUUQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707962971,
+			"expirationDate": 1707963783,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,7 +101,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1707358173413%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1707358985169%2C%22v%22%3A1%7D"
 		}
 	]
 }
