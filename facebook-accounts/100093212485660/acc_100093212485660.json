@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "08.03.2024 10:25 POland TEST",
+	"lastEventDate": "08.03.2024 10:32 POland TEST",
 	"status": 2,
 	"id": "100093212485660",
 	"name": "",
@@ -9,7 +9,7 @@
 	"amountFriends": "",
 	"screenname": "Elvira Melnikova",
 	"birthdate": "1986 June 27",
-	"country": "Dnipro",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -131,7 +131,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741400812.723454,
+			"expirationDate": 1741429546.314443,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -157,7 +157,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710469697,
+			"expirationDate": 1710498629,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -170,7 +170,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741400812.723535,
+			"expirationDate": 1741429546.314547,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -179,11 +179,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "39%3AKK0JTZYCPLmN2w%3A2%3A1689757451%3A-1%3A14100%3A%3AAcXEyUfmIzFegLZRjvz6qFOQD-HOCRa0VZP2mSO8pg"
+			"value": "39%3AKK0JTZYCPLmN2w%3A2%3A1689757451%3A-1%3A14100%3A%3AAcUvy50hqvaxNOqvePdTNLZ4WyRy3O4vZJdrEgIdkg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1717640834.310508,
+			"expirationDate": 1717669767.181694,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -192,7 +192,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1qNbbmFwON3Gy254U.AWXWyU-thHWE4FYEvrobU7XbGYI.Bl6ndr..AAA.0.0.Bl6neC.AWWVr78Vyms"
+			"value": "1OdsvHD7ev3gm83QH.AWW1wvi63uB2XYAmH-e51oL-_Y0.Bl6uep..AAA.0.0.Bl6uiH.AWXczySRjWs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -204,7 +204,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1709864898152%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1709893829957%2C%22v%22%3A1%7D"
 		}
 	]
 }
