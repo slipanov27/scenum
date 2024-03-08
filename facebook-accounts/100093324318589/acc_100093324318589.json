@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "08.03.2024 10:11 POland TEST",
+	"lastEventDate": "08.03.2024 10:14 POland TEST",
 	"status": 2,
 	"id": "100093324318589",
 	"name": "",
 	"profileName": "Polina Tihonova",
 	"amountFriends": "2",
 	"screenname": "Polina Tihonova",
-	"birthdate": "1996 July 19",
+	"birthdate": "",
 	"country": "Dnipro",
 	"isAvatarExists": false,
 	"cookie": [
@@ -118,7 +118,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741298631.634022,
+			"expirationDate": 1741428691.746004,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -128,32 +128,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100093324318589"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1741298631.634141,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "12%3AyMdNbzVKNnPdDA%3A2%3A1689746180%3A-1%3A16239%3A%3AAcXxezQObqnNwDqQDNb4XECR3abGbn-v-gb-T32dig"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1710367525,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1280x527"
 		},
 		{
 			"domain": ".facebook.com",
@@ -170,7 +144,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1717538664.595252,
+			"expirationDate": 1710497585,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1280x527"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1741428691.746125,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "12%3AyMdNbzVKNnPdDA%3A2%3A1689746180%3A-1%3A16239%3A%3AAcWBgX-sxG4bA2aoVGcK-AllOr1tqXJfd-Ecl86_lA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1717668720.212528,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -179,7 +179,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1DDI4ihwLYlmn8zWt.AWUC_3VRC5cqEY0gzC23JBYMQ80.Bl6OhG..AAA.0.0.Bl6Oho.AWVFkCa5mzU"
+			"value": "1Kqvvs41H4uKEz0Te.AWVnw1bI7uRUPkIaghcxgm5rI_8.Bl6uRS..AAA.0.0.Bl6uRw.AWX9GOGWxtk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -191,7 +191,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1709762726631%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1709892786226%2C%22v%22%3A1%7D"
 		}
 	]
 }
