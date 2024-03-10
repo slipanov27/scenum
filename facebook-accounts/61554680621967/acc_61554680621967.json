@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "satwellman@hotmail.com",
 	"password": "HDSMZ0vSAe",
-	"lastEventDate": "10.03.2024 17:48 TEST",
+	"lastEventDate": "10.03.2024 17:51 TEST",
 	"id": "61554680621967",
 	"status": 2,
 	"custom": {},
@@ -81,7 +81,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741553362.407965,
+			"expirationDate": 1741628905.712733,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -94,7 +94,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710622248,
+			"expirationDate": 1710697792,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,11 +103,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1280x527"
+			"value": "1280x455"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741553362.408144,
+			"expirationDate": 1741628905.712799,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -116,11 +116,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3AQVAanmnQEGcyOA%3A2%3A1709660889%3A-1%3A-1%3A%3AAcXuctiE1oCO0eN-ncppNhz4YXpNjrLZDg2qn9NZRQ"
+			"value": "23%3AQVAanmnQEGcyOA%3A2%3A1709660889%3A-1%3A-1%3A%3AAcVAC85FnfyenHVmRiSxuWS8YJkqVAg3FdqSszqTfA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1717793389.866959,
+			"expirationDate": 1717868929.07005,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -129,7 +129,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1RyCfEqa6Kuz8iIH5.AWUKO3PiR57_HaEcNgMDnsnSwHQ.Bl7MtR..AAA.0.0.Bl7Mtt.AWUV0_r95P4"
+			"value": "19TnOeIM2QS1pTJvo.AWVGs0fIpm04lPrHuOM2aPTeFIo.Bl7fJp..AAA.0.0.Bl7fKA.AWW4laEPDI0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -141,7 +141,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1710017449652%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1710092994279%2C%22v%22%3A1%7D"
 		}
 	]
 }
