@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "21.03.2024 12:12 POland TEST port3",
+	"lastEventDate": "21.03.2024 12:15 POland TEST port3",
 	"status": 2,
 	"id": "100093538270795",
 	"name": "",
@@ -9,47 +9,21 @@
 	"amountFriends": "",
 	"screenname": "Alla Maliuska",
 	"birthdate": "1988 March 9",
-	"country": "Dnipro",
+	"country": "Poland",
 	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741115519,
+			"expirationDate": 1745328624.209817,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "lax",
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1741115519,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "datr",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ftK3ZBfld4zwD5tSyvOphyDx"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1741115519,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_page_voice",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100093538270795"
+			"value": "%7B%22100093538270795%22%3A%22Gpj6mOay%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -92,12 +66,12 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741115519,
+			"expirationDate": 1745328624.209632,
 			"hostOnly": false,
-			"httpOnly": false,
+			"httpOnly": true,
 			"name": "sb",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
@@ -118,7 +92,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741732925.122867,
+			"expirationDate": 1742559069.831969,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -131,20 +105,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710445447,
+			"expirationDate": 1745328630.371537,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
+			"httpOnly": true,
+			"name": "datr",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "2"
+			"value": "8EH4ZWwsc-xLxS9bm8j4YrOa"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741732925.122938,
+			"expirationDate": 1742559069.832098,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -153,11 +127,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "47%3ARUFEgTTjGMHC_A%3A2%3A1689768596%3A-1%3A-1%3A%3AAcVRbD5pyuBE56FM0ic7r0G6vXzRkWtfCG4-N1XtAvQ"
+			"value": "14%3AIYXufSWJVrOllQ%3A2%3A1710768621%3A-1%3A-1%3A%3AAcW-GUq1NCQb4cVCJRIOVcvL9FXrE5iqlgvWSOyK4w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710801820,
+			"expirationDate": 1711628055,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -166,11 +140,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1280x455"
+			"value": "1280x527"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1717972955.991111,
+			"expirationDate": 1718799192.067099,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -179,7 +153,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "16n94uWV0Wuf7D2nM.AWUHFYWcwb7Sabudv58DI0IPGxg.Bl74i8..AAA.0.0.Bl74jb.AWV9oCRGSrM"
+			"value": "1oygK4sEtJJDzTd9T.AWU-ItLT3YNHd_x9SxB1sP-d-Go.Bl_CPc..AAA.0.0.Bl_CRX.AWXDjrA4fjE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -191,7 +165,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1710197020645%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1711023254965%2C%22v%22%3A1%7D"
 		}
 	]
 }
